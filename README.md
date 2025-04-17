@@ -1,2 +1,3 @@
-Empty the readme 
-add new text for the branch 111
+create the readme of the main branch 
+date it at 4/17/2025
+store it for record
